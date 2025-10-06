@@ -5,7 +5,7 @@ This portfolio is engineered to deliver critical content under ~14kB so it can l
 ✨ Features
 Blazing Fast Performance – Optimized to fit critical render under ~14kB for instant load on low-bandwidth connections, powered by Preact and Vite.
 
-SEO Optimized – Rich metadata and JSON-LD schema for top-notch search engine visibility.
+SEO Optimized – Rich metadata and JSON-LD schema for search engine visibility.
 
 Fully Responsive – Smooth experience across all screen sizes, from desktop monitors to small smartphones.
 
