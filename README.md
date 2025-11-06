@@ -28,7 +28,7 @@ Built with performance, accessibility, and developer experience in mind:
 
 Framework: Preact — A fast, ~3kB alternative to React with the same modern API.
 
-Build Tool: Vite — Next-gen frontend tooling for instant dev server startup and lightning-fast builds.
+Build Tool: Vite — frontend tooling for instant dev server startup and lightning-fast builds.
 
 Language: TypeScript — Strong typing for safer and more maintainable code.
 
